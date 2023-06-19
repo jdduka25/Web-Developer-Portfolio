@@ -288,7 +288,7 @@ html {
     background-color: #000000;
   }
 
-  .container:hover .overlay {
+  .card-container:hover .overlay {
     opacity: 1;
   }
 
